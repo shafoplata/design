@@ -1,2 +1,2 @@
 # design
-Test repo
+Test repo for JSON files
